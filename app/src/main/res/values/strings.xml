@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">multi_task</string>
+    <string name="button">Submit</string>
+    <string name="resetBtn">Reset</string>
+    <string name="PelinBtn">Pelindrome</string>
+    <string name="hint_text">Enter the String</string>
+
+</resources>
